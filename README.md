@@ -38,7 +38,7 @@
 
 <section>
     <h2>Contact</h2>
-    <p>Email: yourmail@gmail.com</p>
+    <p>Email: srashisingh55@gmail.com</p>
     <p>Phone: 7869187871</p>
 </section>
 
